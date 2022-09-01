@@ -301,6 +301,13 @@ class Data {
       awardedBy: StringConst.COURSERA,
     ),
     CertificationData(
+      title: StringConst.JAVA_PROGRAMMING_PROBLEMS,
+      url: StringConst.JAVA_PROGRAMMING_PROBLEMS_URL,
+      image: ImagePath.JAVA_PROGRAMMING_PROBLEMS,
+      imageSize: 0.325,
+      awardedBy: StringConst.COURSERA,
+    ),
+    CertificationData(
       title: StringConst.MATHEMATICAL_THINKING,
       url: StringConst.MATHEMATICAL_THINKING_URL,
       image: ImagePath.MATHEMATICAL_THINKING,
@@ -350,6 +357,8 @@ class Data {
       roles: [
         StringConst.COMPANY_5_ROLE_1,
         StringConst.COMPANY_5_ROLE_2,
+        StringConst.COMPANY_5_ROLE_3,
+        StringConst.COMPANY_5_ROLE_4,
       ],
       location: StringConst.LOCATION_5,
       duration: StringConst.DURATION_5,

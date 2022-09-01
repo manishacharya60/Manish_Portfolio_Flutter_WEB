@@ -46,6 +46,8 @@ class ImagePath {
   static const String FINTECH = "$imageDir/fintech.jpg";
   static const String GAME_THEORY = "$imageDir/game-theory.jpg";
   static const String JAVA_PROGRAMMING = "$imageDir/java.png";
+  static const String JAVA_PROGRAMMING_PROBLEMS =
+      "$imageDir/java_programming_problems.jpg";
 
   // Projects
 

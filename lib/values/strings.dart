@@ -203,6 +203,8 @@ class StringConst {
       "https://www.coursera.org/account/accomplishments/certificate/JME77AFAKKXG";
   static const String JAVA_PROGRAMMING_URL =
       "https://www.sololearn.com/certificates/course/en/1831635/1068/landscape/png";
+      static const String JAVA_PROGRAMMING_PROBLEMS_URL = 
+      "https://www.coursera.org/account/accomplishments/certificate/PL9P83XDH49J";
 
   //AwardedBy
   static const String GOOGLE = "Google";
@@ -222,6 +224,8 @@ class StringConst {
       "Fintech: Foundations, Payments, and Regulations";
   static const String GAME_THEORY = "Game Theory";
   static const String JAVA_PROGRAMMING = "Java Programming";
+  static const String JAVA_PROGRAMMING_PROBLEMS =
+      "Java Programming: Solving Problems with Software";
 
   //Experience
   static const String CURRENT_MONTH_YEAR = "May 2020 - Current";
@@ -233,7 +237,7 @@ class StringConst {
   static const String COMPANY_2_ROLE_1 =
       "Helped Senior developers in designing Front End for different websites and projects.";
   static const String COMPANY_2_ROLE_2 =
-      "Assisted in developing EATGITA website. It was the online version of the religious book GITA. The website aimed on providing lessons and teaching GITA through interactive ways.";
+      "Assisted in developing EATGITA website- the online version of the religious book GITA. The website aimed on providing lessons and teaching GITA through interactive ways.";
   static const String COMPANY_2_ROLE_3 =
       "Learned essential tools such as GIT and frameworks such as React.";
   static const String LOCATION_2 = "Macchapokhari, Kathmandu - Nepal";
@@ -250,7 +254,7 @@ class StringConst {
       "Lead a solo project to upgrade the EATGITA website from PHP to Java Spring.";
 
   static const String LOCATION_3 = "Macchapokhari, Kathmandu - Nepal";
-  static const String DURATION_3 = "OCT 2020 - AUG 2021";
+  static const String DURATION_3 = "SEPT 2020 - AUG 2021";
 
   static const String COMPANY_4 = "Digital Nepal";
   static const String COMPANY_4_URL = "https://edigitalnepal.com/";
@@ -262,17 +266,21 @@ class StringConst {
   static const String COMPANY_4_ROLE_3 =
       "Engineered and lead the solo project (Canteen Management System). The software which now is adopted by 150+ schools/colleges.";
   static const String COMPANY_4_ROLE_4 =
-      "Assisted Junior Developers and Interns to design the software and led different projects with them.";
+      "Assisted Junior Developers and Interns to design the Examination Management Module and other products.";
   static const String LOCATION_4 = "Tinkune, Kathmandu - Nepal";
   static const String DURATION_4 = "DEC 2021 - JUL 2022";
 
-  static const String COMPANY_5 = "Global STEM Network";
+  static const String COMPANY_5 = "STEM Global Network";
   static const String COMPANY_5_URL = SITE_URL;
-  static const String POSITION_5 = "National Advocate and IT Head";
+  static const String POSITION_5 = "Country Ambassador and IT Consultant";
   static const String COMPANY_5_ROLE_1 =
-      "Serving as a national advocate for Nepal and IT head at Global STEM Network";
+      "Serving as a Country Ambassador for Nepal and IT Consultant at STEM Global Network";
   static const String COMPANY_5_ROLE_2 =
-      "Surveying and researching status of different underdeveloped nations in order to conduct different events and workshops related to STEM.";
+      "Surveying and researching status of STEM Education in different underdeveloped and developing nations.";
+  static const String COMPANY_5_ROLE_3 =
+      "Brainstorming ideas and plans to conduct STEM related in different countries and focus on global outreach platform.";
+  static const String COMPANY_5_ROLE_4 =
+      "Aspiring to make STEM education accessible globally to inspire future innovators.";
 
   static const String LOCATION_5 = "New York - USA";
   static const String DURATION_5 = "JUN 2022 - Present";
