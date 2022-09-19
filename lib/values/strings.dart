@@ -203,7 +203,7 @@ class StringConst {
       "https://www.coursera.org/account/accomplishments/certificate/JME77AFAKKXG";
   static const String JAVA_PROGRAMMING_URL =
       "https://www.sololearn.com/certificates/course/en/1831635/1068/landscape/png";
-      static const String JAVA_PROGRAMMING_PROBLEMS_URL = 
+  static const String JAVA_PROGRAMMING_PROBLEMS_URL =
       "https://www.coursera.org/account/accomplishments/certificate/PL9P83XDH49J";
 
   //AwardedBy
@@ -245,7 +245,7 @@ class StringConst {
 
   static const String COMPANY_3 = "Mokshya Tech and IT Solutions";
   static const String COMPANY_3_URL = "https://mokshyatech.com/";
-  static const String POSITION_3 = "Web Developer";
+  static const String POSITION_3 = "Web Developer (Part-time)";
   static const String COMPANY_3_ROLE_1 =
       "Led a team of 5 web developers to build a complete Staff Management System.";
   static const String COMPANY_3_ROLE_2 =
@@ -297,6 +297,18 @@ class StringConst {
 
   static const String LOCATION_6 = "Kathmandu - Nepal";
   static const String DURATION_6 = "JAN 2022 - Present";
+
+  static const String COMPANY_7 = "Gurzu Inc.";
+  static const String COMPANY_7_URL = "https://edigitalnepal.com/";
+  static const String POSITION_7 = "Project Consultant (Part-time)";
+  static const String COMPANY_7_ROLE_1 =
+      "Working as a Part-time Project Consultant under Medical Software at International Organization based in Nepal.";
+  static const String COMPANY_7_ROLE_2 =
+      "Learning Medical Imaging and Image Processing in C/C++";
+  static const String COMPANY_7_ROLE_3 =
+      "Learning/Remodeling Algorithm for Shape Detection using medical scans.";
+  static const String LOCATION_7 = "Sanepa, Lalitpur - Nepal";
+  static const String DURATION_7 = "August 2022 - Present";
 
   //Portfolio, Projects
   static const String FLUTTER_CATALOG = "RajGyan";
