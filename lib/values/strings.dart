@@ -296,7 +296,7 @@ class StringConst {
       "Developed a Rajgyan Mobile Application to provide various articles and a free platform to discuss the problems related to menstruation.";
 
   static const String LOCATION_6 = "Kathmandu - Nepal";
-  static const String DURATION_6 = "JAN 2022 - Present";
+  static const String DURATION_6 = "Sept 2022 - Present";
 
   static const String COMPANY_7 = "Gurzu Inc.";
   static const String COMPANY_7_URL = "https://edigitalnepal.com/";
