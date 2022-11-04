@@ -218,21 +218,21 @@ class Data {
 
   static List<ProjectItemData> recentWorks = [
     Projects.FLUTTER_CATALOG,
-    Projects.DROP,
-    Projects.ROAM,
-    Projects.LOGIN_CATALOG,
-    Projects.FOODY_BITE,
     Projects.NIMBUS,
+    Projects.FOODY_BITE,
+    Projects.OTP_TEXT_FIELD,
+    Projects.DROP,
   ];
 
   static List<ProjectItemData> projects = [
     Projects.FLUTTER_CATALOG,
+    Projects.NIMBUS,
+    Projects.FOODY_BITE,
+    Projects.OTP_TEXT_FIELD,
     Projects.DROP,
     Projects.ROAM,
     Projects.LOGIN_CATALOG,
-    Projects.FOODY_BITE,
-    Projects.NIMBUS,
-    // Projects.OTP_TEXT_FIELD,
+
     // Projects.AERIUM,
     // Projects.AERIUM_V2,
     // Projects.OUTFITR,
@@ -513,7 +513,7 @@ class Projects {
     isPublic: false,
     isOnPlayStore: false,
     isLive: true,
-    technologyUsed: StringConst.JAVA,
+    technologyUsed: StringConst.PATH,
     webUrl: StringConst.FOODY_BITE_WEB_URL,
   );
   static ProjectItemData NIMBUS = ProjectItemData(
@@ -532,28 +532,28 @@ class Projects {
     isPublic: true,
     isOnPlayStore: false,
     isLive: true,
-    technologyUsed: StringConst.JAVA,
+    technologyUsed: StringConst.SAAS,
     gitHubUrl: StringConst.NIMBUS_GITHUB_URL,
     webUrl: StringConst.NIMBUS_WEB_URL,
   );
-  // static ProjectItemData OTP_TEXT_FIELD = ProjectItemData(
-  //   title: StringConst.OTP_TEXT_FIELD,
-  //   subtitle: StringConst.OTP_TEXT_FIELD_SUBTITLE,
-  //   category: StringConst.OTP_TEXT_FIELD_CATEGORY,
-  //   primaryColor: AppColors.otp_package,
-  //   platform: StringConst.OTP_TEXT_FIELD_PLATFORM,
-  //   image: ImagePath.OTP_TEXTFIELD_COVER,
-  //   coverUrl: ImagePath.OTP_TEXTFIELD_COVER,
-  //   portfolioDescription: StringConst.OTP_TEXT_FIELD_DETAIL,
-  //   navTitleColor: AppColors.otpPackageNavTitle,
-  //   navSelectedTitleColor: AppColors.otpPackageSelectedNavTitle,
-  //   appLogoColor: AppColors.otpPackageAppLogo,
-  //   isPublic: true,
-  //   isLive: true,
-  //   technologyUsed: StringConst.FLUTTER,
-  //   gitHubUrl: StringConst.OTP_TEXT_FIELD_GITHUB_URL,
-  //   webUrl: StringConst.OTP_TEXT_FIELD_WEB_URL,
-  // );
+  static ProjectItemData OTP_TEXT_FIELD = ProjectItemData(
+    title: StringConst.OTP_TEXT_FIELD,
+    subtitle: StringConst.OTP_TEXT_FIELD_SUBTITLE,
+    category: StringConst.OTP_TEXT_FIELD_CATEGORY,
+    primaryColor: AppColors.otp_package,
+    platform: StringConst.OTP_TEXT_FIELD_PLATFORM,
+    image: ImagePath.OTP_TEXTFIELD_COVER,
+    coverUrl: ImagePath.OTP_TEXTFIELD_COVER,
+    portfolioDescription: StringConst.OTP_TEXT_FIELD_DETAIL,
+    navTitleColor: AppColors.otpPackageNavTitle,
+    navSelectedTitleColor: AppColors.otpPackageSelectedNavTitle,
+    appLogoColor: AppColors.otpPackageAppLogo,
+    isPublic: true,
+    isLive: true,
+    technologyUsed: StringConst.FLUTTER,
+    gitHubUrl: StringConst.OTP_TEXT_FIELD_GITHUB_URL,
+    webUrl: StringConst.OTP_TEXT_FIELD_WEB_URL,
+  );
   // static ProjectItemData AERIUM = ProjectItemData(
   //   title: StringConst.AERIUM,
   //   subtitle: StringConst.AERIUM_SUBTITLE,

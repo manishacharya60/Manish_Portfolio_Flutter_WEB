@@ -151,6 +151,8 @@ class StringConst {
   static const String WORDPRESS = "Wordpress";
   static const String BOOTSTRAP = "Bootstrap";
   static const String HTML_CSS = "HTML/CSS";
+  static const String SAAS = "Flutter, Python, Flask";
+  static const String PATH = "HTML, CSS, JS, NODEJS";
 
   //routes
   static const String LOADING_PAGE = "/";
@@ -357,26 +359,41 @@ class StringConst {
   static const String LOGIN_CATALOG_GITHUB_URL =
       "https://github.com/manishacharya60/Resistance-Calculator";
 
-  static const String FOODY_BITE = "Personal Blog";
+  static const String FOODY_BITE = "Path Pradashak";
   static const String FOODY_BITE_PLATFORM = "Web";
-  static const String FOODY_BITE_CATEGORY = "Blog";
-  static const String FOODY_BITE_DESIGNER = "Manish Acharya";
-  static const String FOODY_BITE_SUBTITLE = "My personal blog.";
+  static const String FOODY_BITE_CATEGORY = "Tool / Service";
+  static const String FOODY_BITE_DESIGNER =
+      "Manish Acharya / Lalit Yadav / Kailash Yadav / Dilasha Panta";
+  static const String FOODY_BITE_SUBTITLE = "Public Vehicle Navigator";
   static const String FOODY_BITE_DETAIL =
       "I have always loved writing articles and stories. At this blog you can find articles under different topics and settings.";
-  static const String FOODY_BITE_WEB_URL = "https://articles.manish60.com.np/";
+  static const String FOODY_BITE_WEB_URL =
+      "https://pathpradarshak456.herokuapp.com/";
 
-  static const String NIMBUS = "TODO";
-  static const String NIMBUS_PLATFORM = "Web";
-  static const String NIMBUS_CATEGORY = "UI / UX";
-  static const String NIMBUS_DESIGNER = "Manish Acharya";
+  static const String NIMBUS = "SAAS";
+  static const String NIMBUS_PLATFORM = "Mobile";
+  static const String NIMBUS_CATEGORY = "Healthcare / Tool";
+  static const String NIMBUS_DESIGNER =
+      "Manish Acharya / Kriti Shahu / Priyanka Karki / Veer Kamati";
   static const String NIMBUS_SUBTITLE =
       "A beautifully designed TODO app for web";
   static const String NIMBUS_DETAIL =
       "TODO app provides an space to add your TODOs based on different categories and options.";
   static const String NIMBUS_GITHUB_URL =
-      "https://github.com/manishacharya60/TODO-Web-App";
-  static const String NIMBUS_WEB_URL = "https://todo.manish60.com.np/";
+      "https://github.com/projectsaas22/Project-Saas-App";
+  static const String NIMBUS_WEB_URL = "https://projectsaas.info/";
+
+  static const String OTP_TEXT_FIELD = "MySnake";
+  static const String OTP_TEXT_FIELD_PLATFORM = "Mobile";
+  static const String OTP_TEXT_FIELD_CATEGORY = "Community / Tool";
+  static const String OTP_TEXT_FIELD_SUBTITLE =
+      "A useful flutter package for helping with otp";
+  static const String OTP_TEXT_FIELD_DETAIL =
+      "Otp text field is a simple flutter package built to help flutter devs easily implement OTP in their app. It is highly customizable and very easy to use.";
+  static const String OTP_TEXT_FIELD_GITHUB_URL =
+      "https://github.com/david-legend/otp_textfield";
+  static const String OTP_TEXT_FIELD_WEB_URL =
+      "https://pub.dev/packages/flutter_otp_text_field";
 
   // static const String PORTFOLIO_SITE_V2 = "Aerium V2";
   // static const String PORTFOLIO_SITE_V2_PLATFORM = "Web";
@@ -389,18 +406,6 @@ class StringConst {
   // static const String PORTFOLIO_SITE_V2_GITHUB_URL =
   //     "https://github.com/david-legend/david-legend.github.io";
   // static const String PORTFOLIO_SITE_V2_WEB_URL = "https://davidcobbina.com/";
-
-  // static const String OTP_TEXT_FIELD = "Otp Textfield";
-  // static const String OTP_TEXT_FIELD_PLATFORM = "Flutter Package/Library.";
-  // static const String OTP_TEXT_FIELD_CATEGORY = "Package.";
-  // static const String OTP_TEXT_FIELD_SUBTITLE =
-  //     "A useful flutter package for helping with otp";
-  // static const String OTP_TEXT_FIELD_DETAIL =
-  //     "Otp text field is a simple flutter package built to help flutter devs easily implement OTP in their app. It is highly customizable and very easy to use.";
-  // static const String OTP_TEXT_FIELD_GITHUB_URL =
-  //     "https://github.com/david-legend/otp_textfield";
-  // static const String OTP_TEXT_FIELD_WEB_URL =
-  //     "https://pub.dev/packages/flutter_otp_text_field";
 
   // static const String AERIUM = "Aerium";
   // static const String AERIUM_PLATFORM = "Web.";

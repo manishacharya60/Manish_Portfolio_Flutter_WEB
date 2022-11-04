@@ -64,11 +64,11 @@ flutter:
     - assets/images/projects/
     - assets/images/projects/aerium-v1/
     - assets/images/projects/aerium-v2/
-    - assets/images/projects/article/
+    - assets/images/projects/saas/
     - assets/images/projects/rajgyan/
     - assets/images/projects/phypro/
     - assets/images/projects/resistance/
-    - assets/images/projects/todo/
+    - assets/images/projects/path/
     - assets/images/projects/otp_package/
     - assets/images/projects/periodic/
     - assets/images/projects/outfitr/
