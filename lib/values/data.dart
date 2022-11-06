@@ -346,6 +346,8 @@ class Data {
         StringConst.COMPANY_7_ROLE_1,
         StringConst.COMPANY_7_ROLE_2,
         StringConst.COMPANY_7_ROLE_3,
+        StringConst.COMPANY_7_ROLE_4,
+        StringConst.COMPANY_7_ROLE_5
       ],
       location: StringConst.LOCATION_7,
       duration: StringConst.DURATION_7,
@@ -548,11 +550,9 @@ class Projects {
     navTitleColor: AppColors.otpPackageNavTitle,
     navSelectedTitleColor: AppColors.otpPackageSelectedNavTitle,
     appLogoColor: AppColors.otpPackageAppLogo,
-    isPublic: true,
-    isLive: true,
+    isPublic: false,
+    isLive: false,
     technologyUsed: StringConst.FLUTTER,
-    gitHubUrl: StringConst.OTP_TEXT_FIELD_GITHUB_URL,
-    webUrl: StringConst.OTP_TEXT_FIELD_WEB_URL,
   );
   // static ProjectItemData AERIUM = ProjectItemData(
   //   title: StringConst.AERIUM,

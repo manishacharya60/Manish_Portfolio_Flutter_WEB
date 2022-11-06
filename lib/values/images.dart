@@ -9,7 +9,7 @@ class ImagePath {
   //Images
   static const String DEV = "$imageDir/manish_black.jpg";
   // CV
-  static const String CV = "$imageDir/Manish_CV_1.pdf";
+  static const String CV = "$imageDir/Manish_CV_3.pdf";
 
   static const String VYBZ = "$imageDir/vybz.jpg";
   static const String DAVID = "$imageDir/david.png";
@@ -77,7 +77,7 @@ class ImagePath {
 
   // OTP Textfield Package
   static const String OTP_TEXTFIELD_COVER =
-      "$projectsDir/otp_package/otp_cover.png";
+      "$projectsDir/mysnake/mysnake_cover.PNG";
 
   // Aerium
   static const String AERIUM_COVER =

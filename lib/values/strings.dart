@@ -304,13 +304,17 @@ class StringConst {
   static const String COMPANY_7_URL = "https://edigitalnepal.com/";
   static const String POSITION_7 = "Project Consultant (Part-time)";
   static const String COMPANY_7_ROLE_1 =
-      "Working as a Part-time Project Consultant under Medical Software at International Organization based in Nepal.";
+      "Working as a Part-time Project Consultant under Medical Software at International Organization based in Nepal";
   static const String COMPANY_7_ROLE_2 =
       "Learning Medical Imaging and Image Processing in C/C++";
   static const String COMPANY_7_ROLE_3 =
-      "Learning/Remodeling Algorithm for Shape Detection using medical scans.";
+      "Building a software for detecting Breast Cancer with higher accuracy";
+  static const String COMPANY_7_ROLE_4 =
+      "Remodeling Algorithm for detection of different cancers using medical scans";
+  static const String COMPANY_7_ROLE_5 =
+      "Documenting project and code for future reference and public use";
   static const String LOCATION_7 = "Sanepa, Lalitpur - Nepal";
-  static const String DURATION_7 = "August 2022 - Present";
+  static const String DURATION_7 = "AUG 2022 - Present";
 
   //Portfolio, Projects
   static const String FLUTTER_CATALOG = "RajGyan";
@@ -366,7 +370,7 @@ class StringConst {
       "Manish Acharya / Lalit Yadav / Kailash Yadav / Dilasha Panta";
   static const String FOODY_BITE_SUBTITLE = "Public Vehicle Navigator";
   static const String FOODY_BITE_DETAIL =
-      "I have always loved writing articles and stories. At this blog you can find articles under different topics and settings.";
+      "Path Pradashak is an online platform that provides information about various vehicle routes, fares, and public transportation information for more than 500 routes within Kathmandu, Lalitpur, and Bhaktapur. The platform was created with the goal of digitizing Nepal's public transportation.";
   static const String FOODY_BITE_WEB_URL =
       "https://pathpradarshak456.herokuapp.com/";
 
@@ -376,9 +380,9 @@ class StringConst {
   static const String NIMBUS_DESIGNER =
       "Manish Acharya / Kriti Shahu / Priyanka Karki / Veer Kamati";
   static const String NIMBUS_SUBTITLE =
-      "A beautifully designed TODO app for web";
+      "Estimating Breathing Rate Using Unmodified Smartphones";
   static const String NIMBUS_DETAIL =
-      "TODO app provides an space to add your TODOs based on different categories and options.";
+      "Saas is a mobile app that monitors and calculates breathing rates. The app was created with the intention of making healthcare tools more accessible to the general public. The app serves as a replacement for existing costly and complex monitoring systems.";
   static const String NIMBUS_GITHUB_URL =
       "https://github.com/projectsaas22/Project-Saas-App";
   static const String NIMBUS_WEB_URL = "https://projectsaas.info/";
@@ -386,10 +390,9 @@ class StringConst {
   static const String OTP_TEXT_FIELD = "MySnake";
   static const String OTP_TEXT_FIELD_PLATFORM = "Mobile";
   static const String OTP_TEXT_FIELD_CATEGORY = "Community / Tool";
-  static const String OTP_TEXT_FIELD_SUBTITLE =
-      "A useful flutter package for helping with otp";
+  static const String OTP_TEXT_FIELD_SUBTITLE = "Life on Land";
   static const String OTP_TEXT_FIELD_DETAIL =
-      "Otp text field is a simple flutter package built to help flutter devs easily implement OTP in their app. It is highly customizable and very easy to use.";
+      "MySnake is a mobile app that focuses on emergency snake bite reporting and snake handling techniques, as snake bites remain a major issue in South Asian regions. The app also promotes snake protection by including report poaching and snake reporting features. The app was presented at the MIT Appathon 2022 with a 'Life on Land' theme and finished second in the Adult Individual Public Choice Category.";
   static const String OTP_TEXT_FIELD_GITHUB_URL =
       "https://github.com/david-legend/otp_textfield";
   static const String OTP_TEXT_FIELD_WEB_URL =
