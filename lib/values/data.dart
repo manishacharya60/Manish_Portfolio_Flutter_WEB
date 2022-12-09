@@ -431,11 +431,11 @@ class Projects {
     category: StringConst.FLUTTER_CATALOG_CATEGORY,
     portfolioDescription: StringConst.FLUTTER_CATALOG_DETAIL,
     isPublic: false,
-    isOnPlayStore: true,
-    isLive: true,
+    isOnPlayStore: false,
+    isLive: false,
     technologyUsed: StringConst.FLUTTER,
-    webUrl: StringConst.FLUTTER_CATALOG_WEB_URL,
-    playStoreUrl: StringConst.FLUTTER_CATALOG_PLAYSTORE_URL,
+    // webUrl: StringConst.FLUTTER_CATALOG_WEB_URL,
+    // playStoreUrl: StringConst.FLUTTER_CATALOG_PLAYSTORE_URL,
   );
   static ProjectItemData DROP = ProjectItemData(
     title: StringConst.DROP,
