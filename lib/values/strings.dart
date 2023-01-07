@@ -24,7 +24,7 @@ class StringConst {
   static const String DEV_INTRO = "I'm Manish Acharya.";
   static const String DEV_TITLE = "Computerphile.";
   static const String DEV_DESC =
-      "Software Developer / Full Stack Developer / Flutter Developer \nWriter / Graphic Designer / Humanitarian";
+      "Software Developer / AI Enthusiast / Writer / \nHumanitarian / Graphic Designer ";
   static const String SEE_MY_WORKS = "See my works";
   static const String SCROLL_DOWN = "Scroll Down";
   static const String CRAFTED_WITH_LOVE = "Crafted with love.";
@@ -65,8 +65,7 @@ class StringConst {
       "quality mobile & web applications.";
   // static const String ABOUT_DEV_CATCH_LINE_3 = "& web applications";
   static const String ABOUT_DEV_CATCH_LINE_4 = "I also have a strong";
-  static const String ABOUT_DEV_CATCH_LINE_5 =
-      "passion for Competitive Programming.";
+  static const String ABOUT_DEV_CATCH_LINE_5 = "passion for Machine Learning.";
   static const String ABOUT_DEV_STORY = "Story";
   static const String ABOUT_DEV_STORY_TITLE = "A little bit about myself.";
   static const String ABOUT_DEV_STORY_CONTENT_1 =
@@ -74,7 +73,7 @@ class StringConst {
   static const String ABOUT_DEV_STORY_CONTENT_2 =
       "I recently completed my high school from St. Xavier's College, Maitighar. Currently, I am in gap year exploring my skills, researching and seeking for new opportunities.";
   static const String ABOUT_DEV_STORY_CONTENT_3 =
-      "I'm an avid reader and a problem solver with a keen eye for details. Love writing, drawing, fan of books, music, and documentaries. I love imagining and creating new characters, which I later give life to using my Graphic Designing skills.";
+      "I'm an avid reader and a problem solver with a keen eye for details. I love writing, drawing, listening music, and watching documentaries. I love creating new characters and giving them life using Manim, a Python library.";
   static const String ABOUT_DEV_TECHNOLOGY = "Technology";
   static const String MOBILE_TECH = "Mobile / Web Technologies";
   static const String OTHER_TECH = "Other Technologies";
@@ -153,6 +152,8 @@ class StringConst {
   static const String HTML_CSS = "HTML/CSS";
   static const String SAAS = "Flutter, Python, Flask";
   static const String PATH = "HTML, CSS, JS, NODEJS";
+  static const String MITAPPATHON = "Flutter, MIT App Inventor";
+  static const String DJANGO = "Python, Django, Postgresql";
 
   //routes
   static const String LOADING_PAGE = "/";
@@ -303,9 +304,10 @@ class StringConst {
 
   static const String COMPANY_7 = "Gurzu Inc.";
   static const String COMPANY_7_URL = "https://edigitalnepal.com/";
-  static const String POSITION_7 = "Project Consultant (Part-time)";
+  static const String POSITION_7 =
+      "Software Engineer, Project Consultant (August 2022 - December 2022)";
   static const String COMPANY_7_ROLE_1 =
-      "Working as a Part-time Project Consultant under Medical Software at International Organization based in Nepal";
+      "Working as a Project Consultant under Medical Software at International Organization based in Nepal";
   static const String COMPANY_7_ROLE_2 =
       "Learning Medical Imaging and Image Processing in C/C++";
   static const String COMPANY_7_ROLE_3 =

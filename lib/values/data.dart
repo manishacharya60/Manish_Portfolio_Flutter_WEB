@@ -116,11 +116,11 @@ class Data {
       url: StringConst.LINKED_IN_URL,
     ),
 
-    SocialData(
-      name: StringConst.INSTAGRAM,
-      iconData: FontAwesomeIcons.instagram,
-      url: StringConst.INSTAGRAM_URL,
-    ),
+    // SocialData(
+    //   name: StringConst.INSTAGRAM,
+    //   iconData: FontAwesomeIcons.instagram,
+    //   url: StringConst.INSTAGRAM_URL,
+    // ),
     // SocialData(
     //   name: StringConst.TWITTER,
     //   iconData: FontAwesomeIcons.twitter,
@@ -190,11 +190,11 @@ class Data {
     //   iconData: FontAwesomeIcons.twitter,
     //   url: StringConst.TWITTER_URL,
     // ),
-    SocialData(
-      name: StringConst.INSTAGRAM,
-      iconData: FontAwesomeIcons.instagram,
-      url: StringConst.INSTAGRAM_URL,
-    ),
+    // SocialData(
+    //   name: StringConst.INSTAGRAM,
+    //   iconData: FontAwesomeIcons.instagram,
+    //   url: StringConst.INSTAGRAM_URL,
+    // ),
     // SocialData(
     //   name: StringConst.TELEGRAM,
     //   iconData: FontAwesomeIcons.telegram,
@@ -454,7 +454,7 @@ class Projects {
     isPublic: true,
     isLive: true,
     isOnPlayStore: false,
-    technologyUsed: StringConst.PYTHON,
+    technologyUsed: StringConst.DJANGO,
     gitHubUrl: StringConst.DROP_GITHUB_URL,
     webUrl: StringConst.DROP_WEB_URL,
   );
@@ -475,7 +475,7 @@ class Projects {
     isPublic: true,
     isOnPlayStore: false,
     isLive: true,
-    technologyUsed: StringConst.PYTHON,
+    technologyUsed: StringConst.DJANGO,
     gitHubUrl: StringConst.ROAM_GITHUB_URL,
     webUrl: StringConst.ROAM_WEB_URL,
   );
@@ -552,7 +552,7 @@ class Projects {
     appLogoColor: AppColors.otpPackageAppLogo,
     isPublic: false,
     isLive: false,
-    technologyUsed: StringConst.FLUTTER,
+    technologyUsed: StringConst.MITAPPATHON,
   );
   // static ProjectItemData AERIUM = ProjectItemData(
   //   title: StringConst.AERIUM,
