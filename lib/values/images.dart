@@ -76,8 +76,7 @@ class ImagePath {
       "$projectsDir/resistance/resistance_cover.PNG";
 
   // OTP Textfield Package
-  static const String OTP_TEXTFIELD_COVER =
-      "$projectsDir/mysnake/mysnake_cover.PNG";
+  static const String OTP_TEXTFIELD_COVER = "$projectsDir/mysnake/mysnake.png";
 
   // Aerium
   static const String AERIUM_COVER =

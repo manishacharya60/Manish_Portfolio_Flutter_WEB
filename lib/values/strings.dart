@@ -175,7 +175,7 @@ class StringConst {
       "https://www.linkedin.com/in/manishacharya60/";
   static const String TWITTER_URL = "https://twitter.com/DavidLegend47";
   static const String INSTAGRAM_URL = "https://www.instagram.com/haha_manish/";
-  static const String BLOG_URL = "https://articles.manish60.com.np/";
+  static const String BLOG_URL = "https://blog.manish60.com.np/";
   static const String TELEGRAM_URL = "https://t.me/DavidLegend";
 
   //Contacts
