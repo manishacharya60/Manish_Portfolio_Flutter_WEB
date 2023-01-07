@@ -247,13 +247,14 @@ class StringConst {
 
   static const String COMPANY_3 = "Mokshya Tech and IT Solutions";
   static const String COMPANY_3_URL = "https://mokshyatech.com/";
-  static const String POSITION_3 = "Web Developer (Part-time)";
+  static const String POSITION_3 =
+      "Jr. Creative Director, Web Developer (Part-time)";
   static const String COMPANY_3_ROLE_1 =
       "Led a team of 5 web developers to build a complete Staff Management System.";
   static const String COMPANY_3_ROLE_2 =
       "Helped debug and maintained major features of the Library Management System.";
   static const String COMPANY_3_ROLE_3 =
-      "Lead a solo project to upgrade the EATGITA website from PHP to Java Spring.";
+      "Responsible for upgrading old projects using React and Java Spring";
 
   static const String LOCATION_3 = "Macchapokhari, Kathmandu - Nepal";
   static const String DURATION_3 = "SEPT 2020 - AUG 2021";
@@ -262,7 +263,7 @@ class StringConst {
   static const String COMPANY_4_URL = "https://edigitalnepal.com/";
   static const String POSITION_4 = "Software Developer";
   static const String COMPANY_4_ROLE_1 =
-      "Worked in a team of 3 Software Developers and 2 designers to build a School Management System with an idea to digitalize the education ecosystem of Nepal.";
+      "Worked in a team of 8 Software Developers to build a School Management System with an idea to digitalize the education ecosystem of Nepal.";
   static const String COMPANY_4_ROLE_2 =
       "Engineered and maintained major features of the Digital Nepal mobile Apps.";
   static const String COMPANY_4_ROLE_3 =
@@ -272,20 +273,20 @@ class StringConst {
   static const String LOCATION_4 = "Tinkune, Kathmandu - Nepal";
   static const String DURATION_4 = "DEC 2021 - JUL 2022";
 
-  static const String COMPANY_5 = "STEM Global Network";
-  static const String COMPANY_5_URL = SITE_URL;
-  static const String POSITION_5 = "Country Ambassador and IT Consultant";
-  static const String COMPANY_5_ROLE_1 =
-      "Serving as a Country Ambassador for Nepal and IT Consultant at STEM Global Network";
-  static const String COMPANY_5_ROLE_2 =
-      "Surveying and researching status of STEM Education in different underdeveloped and developing nations.";
-  static const String COMPANY_5_ROLE_3 =
-      "Brainstorming ideas and plans to conduct STEM related in different countries and focus on global outreach platform.";
-  static const String COMPANY_5_ROLE_4 =
-      "Aspiring to make STEM education accessible globally to inspire future innovators.";
+  // static const String COMPANY_5 = "STEM Global Network";
+  // static const String COMPANY_5_URL = SITE_URL;
+  // static const String POSITION_5 = "Country Ambassador and IT Consultant";
+  // static const String COMPANY_5_ROLE_1 =
+  //     "Serving as a Country Ambassador for Nepal and IT Consultant at STEM Global Network";
+  // static const String COMPANY_5_ROLE_2 =
+  //     "Surveying and researching status of STEM Education in different underdeveloped and developing nations.";
+  // static const String COMPANY_5_ROLE_3 =
+  //     "Brainstorming ideas and plans to conduct STEM related in different countries and focus on global outreach platform.";
+  // static const String COMPANY_5_ROLE_4 =
+  //     "Aspiring to make STEM education accessible globally to inspire future innovators.";
 
-  static const String LOCATION_5 = "New York - USA";
-  static const String DURATION_5 = "JUN 2022 - Present";
+  // static const String LOCATION_5 = "New York - USA";
+  // static const String DURATION_5 = "JUN 2022 - Present";
 
   static const String COMPANY_6 = "RajGyan";
   static const String COMPANY_6_URL = "https://rajgyanapp.com/";
@@ -480,12 +481,12 @@ class StringConst {
   static const String PYTHON_ALGORITHMS_DETAIL_WEB_URL =
       "https://github.com/manishacharya60/Java-mean-calculator";
 
-  static const String AMOR_APP = "Digital Nepal - Canteen Management System";
+  static const String AMOR_APP = "Digital Nepal - School Management System";
   static const String AMOR_APP_PLATFORM = "Web";
   static const String AMOR_APP_SUBTITLE =
-      "beautifully designed Canteen Management System built with Java Spring.";
+      "beautifully designed School Management System built with Java Spring.";
   static const String AMOR_APP_DETAIL =
-      "beautifully designed Canteen Management System built with Java Spring.";
+      "beautifully designed School Management System built with Java Spring.";
   static const String AMOR_APP_GITHUB_URL =
       "https://edigitalnepal.com/sms/login";
   static const String AMOR_APP_WEB_URL = "https://edigitalnepal.com/sms/login";

@@ -364,19 +364,19 @@ class Data {
       location: StringConst.LOCATION_6,
       duration: StringConst.DURATION_6,
     ),
-    ExperienceData(
-      company: StringConst.COMPANY_5,
-      position: StringConst.POSITION_5,
-      companyUrl: StringConst.COMPANY_5_URL,
-      roles: [
-        StringConst.COMPANY_5_ROLE_1,
-        StringConst.COMPANY_5_ROLE_2,
-        StringConst.COMPANY_5_ROLE_3,
-        StringConst.COMPANY_5_ROLE_4,
-      ],
-      location: StringConst.LOCATION_5,
-      duration: StringConst.DURATION_5,
-    ),
+    // ExperienceData(
+    //   company: StringConst.COMPANY_5,
+    //   position: StringConst.POSITION_5,
+    //   companyUrl: StringConst.COMPANY_5_URL,
+    //   roles: [
+    //     StringConst.COMPANY_5_ROLE_1,
+    //     StringConst.COMPANY_5_ROLE_2,
+    //     StringConst.COMPANY_5_ROLE_3,
+    //     StringConst.COMPANY_5_ROLE_4,
+    //   ],
+    //   location: StringConst.LOCATION_5,
+    //   duration: StringConst.DURATION_5,
+    // ),
     ExperienceData(
       company: StringConst.COMPANY_4,
       position: StringConst.POSITION_4,
